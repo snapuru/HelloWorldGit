@@ -8,6 +8,13 @@ public class HelloWorld {
 		
 		System.out.println(user.getNombre());
 		System.out.println(user.getApellido());
+		
+		displayGreeting();
+	}
+	
+	private static void displayGreeting() {
+		System.out.println("hello Don pepito!");
+		System.out.println("hello Don Jose!");
 	}
 
 }
