@@ -14,7 +14,7 @@ public class HelloWorld {
 	
 	private static void displayGreeting() {
 		System.out.println("hello Don pepito!");
-		System.out.println("hello Don Jose!");
+		System.out.println("hello Jose!");
 	}
 
 }
